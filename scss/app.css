@@ -1,0 +1,16 @@
+.forth-container {
+  background-color: rgb(147, 129, 129);
+  border: 1px solid;
+}
+.forth-container h5, .forth-container p {
+  font-size: 40px;
+  color: rgb(119, 209, 119);
+  border: 2px solid;
+  padding: 20px;
+}
+.forth-container a {
+  color: rgb(179, 53, 95);
+}
+.forth-container h3 {
+  color: green;
+}/*# sourceMappingURL=app.css.map */

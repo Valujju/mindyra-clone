@@ -1,0 +1,24 @@
+@import "_color";
+
+.forth-container{
+    background-color: $lightgrey;
+    border: 1px solid;
+    h5{
+        font-size: 40px;
+        color: $lightgreen;
+        border: 2px solid;
+        padding: 20px;
+    }
+    p{
+        @extend h5;
+    }
+    a{
+        color: $pink;
+    }
+    h3{
+        color: green;
+    }
+    
+}
+
+
