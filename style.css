@@ -3,7 +3,9 @@
     padding: 0;
 }
 
-
+.background-color{
+    background-image: linear-gradient(to bottom, #000000c7, #a8a2a591);
+}
 .button{
     border-radius: 10px;
     color: white;
